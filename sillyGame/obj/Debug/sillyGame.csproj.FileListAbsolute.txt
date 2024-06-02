@@ -1,0 +1,6 @@
+C:\Users\setsuna\Desktop\developer\rider\sillyGame\sillyGame\bin\Debug\sillyGame.exe
+C:\Users\setsuna\Desktop\developer\rider\sillyGame\sillyGame\bin\Debug\sillyGame.pdb
+C:\Users\setsuna\Desktop\developer\rider\sillyGame\sillyGame\obj\Debug\sillyGame.csproj.AssemblyReference.cache
+C:\Users\setsuna\Desktop\developer\rider\sillyGame\sillyGame\obj\Debug\sillyGame.csproj.CoreCompileInputs.cache
+C:\Users\setsuna\Desktop\developer\rider\sillyGame\sillyGame\obj\Debug\sillyGame.exe
+C:\Users\setsuna\Desktop\developer\rider\sillyGame\sillyGame\obj\Debug\sillyGame.pdb
